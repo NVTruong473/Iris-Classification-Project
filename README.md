@@ -1,2 +1,34 @@
-# Iris-Classification-Project
-A beginner-friendly Machine Learning project that uses the famous Iris dataset to classify flower species based on their measurements. - (Một dự án Machine Learning thân thiện với người mới bắt đầu, sử dụng bộ dữ liệu nổi tiếng Iris dataset để phân loại các loài hoa dựa trên các số đo của chúng.)
+# Iris Classification Project
+
+A beginner-friendly Machine Learning project that compares multiple models on the Iris dataset.
+
+## Project Goal
+Predict Iris flower species using machine learning algorithms.
+
+## Models Used
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- SVM
+- KNN
+- Naive Bayes
+
+## Features
+- Data inspection
+- Visualization
+- Multi-model comparison
+- Auto best model selection
+- Confusion Matrix
+- Classification Report
+- Save trained model (.pkl)
+
+## Files
+- iris_model.ipynb
+- best_model.pkl
+- README.md
+
+## Result
+All tested models achieved excellent accuracy on Iris dataset.
+
+## Author
+NVTruong473
